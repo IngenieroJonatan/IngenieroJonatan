@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<iframe src="https://giphy.com/embed/rzeWnbH8Uc5Y4" width="480" height="456" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/art-pixel-rzeWnbH8Uc5Y4">via GIPHY</a></p>
+<img align="right" alt="Me" width="350" src="https://giphy.com/embed/rzeWnbH8Uc5Y4">
 
 # 💫 About Me:
 🔭 I’m currently working on Flutter Projects<br><br>🌱 I’m currently learning ML<br><br>💬 Ask me about Flutter and NodeJS<br><br>📫 How to reach me jonatancotiz40@gmail.com<br><br>⚡ About me Flutter application developer with 2 years of experience
