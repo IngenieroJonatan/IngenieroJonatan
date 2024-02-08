@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="1000" src="[https://giphy.com/embed/rzeWnbH8Uc5Y4](https://i.giphy.com/rzeWnbH8Uc5Y4.webp)">
+<img align="right" alt="background" width="1000" src="https://i.gifer.com/xK.gif">
 
 ### Hi there 👋
 
