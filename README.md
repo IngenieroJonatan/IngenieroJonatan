@@ -1,6 +1,6 @@
-### Hi there 👋
+<img align="right" alt="Coding" width="1000" src="[https://giphy.com/embed/rzeWnbH8Uc5Y4](https://i.giphy.com/rzeWnbH8Uc5Y4.webp)">
 
-<img align="right" alt="Me" width="350" src="https://giphy.com/embed/rzeWnbH8Uc5Y4">
+### Hi there 👋
 
 # 💫 About Me:
 🔭 I’m currently working on Flutter Projects<br><br>🌱 I’m currently learning ML<br><br>💬 Ask me about Flutter and NodeJS<br><br>📫 How to reach me jonatancotiz40@gmail.com<br><br>⚡ About me Flutter application developer with 2 years of experience
