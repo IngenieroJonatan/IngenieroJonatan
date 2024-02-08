@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img align="right" alt="Me" width="350" src="[https://github.com/Stivenmore/StivenMore/blob/main/me2.png](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExandrZ25neDYxNHVzcGtveDR3MWZ5MTYxZzJqa2F3NDBjam14enNjcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rzeWnbH8Uc5Y4/giphy.gif)">
+
 # 💫 About Me:
 🔭 I’m currently working on Flutter Projects<br><br>🌱 I’m currently learning ML<br><br>💬 Ask me about Flutter and NodeJS<br><br>📫 How to reach me jonatancotiz40@gmail.com<br><br>⚡ About me Flutter application developer with 2 years of experience
 
