@@ -8,7 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=Flutter;JavaScript;Dart;Firebase;MongoDB;SQLite;Figma;MySQL)](https://git.io/typing-svg)
 
-<img align="right" height="380" alt="background" width="500" src="https://lastfm.freetls.fastly.net/i/u/300x300/c398c0684dd8d4cbff5555d386bf2e2b.jpg">
+<img align="right" height="380" alt="background" width="500" src="https://64.media.tumblr.com/ebf74887520abe1b1fbed76f463af135/tumblr_pew3zxiCR71rnbw6mo1_1280.gif">
 
 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝙵𝚕𝚞𝚝𝚝𝚎𝚛 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜<br><br>🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝙼𝙻<br><br>💬 𝙰𝚜𝚔 𝚖𝚎 𝚊𝚋𝚘𝚞𝚝 𝙵𝚕𝚞𝚝𝚝𝚎𝚛 𝚊𝚗𝚍 𝙽𝚘𝚍𝚎𝙹𝚂<br><br>📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚓𝚘𝚗𝚊𝚝𝚊𝚗𝚌𝚘𝚝𝚒𝚣𝟺𝟶@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖<br><br> 👤 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞 :  𝙵𝚕𝚞𝚝𝚝𝚎𝚛 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚠𝚒𝚝𝚑 𝟸 𝚢𝚎𝚊𝚛𝚜 𝚘𝚏 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎
 
